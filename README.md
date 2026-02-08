@@ -1,4 +1,4 @@
-# 🌳 MARSAD – AI-Powered Urban Forestation Analysis
+# 🌳 MARSAD
 ### Satellite Image Processing • Street Extraction • Empty-Space Segmentation • Tree Count Estimation
 
 This repository contains the **AI implementation** of the MARSAD system — a computer-vision solution designed to analyze satellite imagery and automatically identify **streets**, and **empty spaces** to support urban forestation efforts.
